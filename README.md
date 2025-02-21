@@ -22,7 +22,7 @@ Example! For inventory
 
 
 Output:
-
+```
 --------------------------------------------------
 Candidate 539 of 540:
   Lineup: ['Die of misfortune', 'Ordinary die', 'Ordinary die', 'Ordinary die', 'Ordinary die', 'Painted die']
@@ -50,4 +50,4 @@ Best 6-dice Lineup (Rigged dice + Ordinary dice):
 
 Expected Turn Value: 1069.67
 **********************************************
-
+```
