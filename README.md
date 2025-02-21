@@ -4,6 +4,7 @@ calculate best rigged dice combination based on your inventory
 ### NOTE: COMPUTATIONALLY INTENSIVE
 
 Example! For inventory
+
 ```
     inventory = {
         "Die of misfortune": 1,
@@ -18,6 +19,7 @@ Example! For inventory
         "Wisdom tooth die": 1,
     }
 ```
+
 
 Output:
 """
