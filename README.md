@@ -11,6 +11,9 @@ Lineups that can repeatedly trigger hot-dice resets are detected as "infinite" a
 
 Buy me a coffee! https://buymeacoffee.com/finicu
 
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/ca4a21aa-b57a-452d-a882-7590c7553b5d" />
+
+
 ## Usage
 
 ### Examples
