@@ -1,4 +1,4 @@
-# GPU Monte-Carlo Rigged Dice Lineup Search
+# GPU Monte-Carlo Rigged Dice Lineup Search for Kingdom Come Deliverance 2
 
 A GPU-accelerated script that searches all possible 6-dice lineups from your inventory to find the best one for a Farkle-like game.
 
