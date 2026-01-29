@@ -9,6 +9,8 @@ It estimates:
 
 Lineups that can repeatedly trigger hot-dice resets are detected as "infinite" and prioritized.
 
+Buy me a coffee! https://buymeacoffee.com/finicu
+
 ## Usage
 
 ### Examples
